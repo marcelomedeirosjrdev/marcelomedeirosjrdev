@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Me chamo Marcelo Medeiros, tenho 23 anos, sou frontend e futuro FULLSTACK, sou estudante no DEV CLUB.
+  Sou um 𝘿𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗲𝗱𝗼𝗿 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 com foco em se tornar FullStack. Tenho conhecimento com as seguintes tecnologias: 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗚𝗶𝘁/𝗚𝗶𝘁𝗛𝘂𝗯, 𝗛𝗧𝗠𝗟 𝗲 𝗖𝗦𝗦, a qual faço aplicações para criações de sites, sou aluno do Devclub. 
+.
   <br>
   <strong>Programador</strong>
  .
